@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\C#\home_work\work0\obj\Debug\net10.0\work0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\home_work\work0\obj\Debug\net10.0\work0.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\home_work\work0\obj\Debug\net10.0\work0.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\home_work\work0\obj\Debug\net10.0\work0.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\home_work\work0\bin\Debug\net10.0\work0.exe
+C:\Users\PC\Desktop\C#\home_work\work0\bin\Debug\net10.0\work0.deps.json
+C:\Users\PC\Desktop\C#\home_work\work0\bin\Debug\net10.0\work0.runtimeconfig.json
+C:\Users\PC\Desktop\C#\home_work\work0\bin\Debug\net10.0\work0.dll
+C:\Users\PC\Desktop\C#\home_work\work0\bin\Debug\net10.0\work0.pdb
+C:\Users\PC\Desktop\C#\home_work\work0\obj\Debug\net10.0\work0.dll
+C:\Users\PC\Desktop\C#\home_work\work0\obj\Debug\net10.0\refint\work0.dll
+C:\Users\PC\Desktop\C#\home_work\work0\obj\Debug\net10.0\work0.pdb
+C:\Users\PC\Desktop\C#\home_work\work0\obj\Debug\net10.0\work0.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\home_work\work0\obj\Debug\net10.0\ref\work0.dll
